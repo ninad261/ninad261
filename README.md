@@ -3,13 +3,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninad261&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninad261&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ninad261&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninad261&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ninad261&theme=dark_lover" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyNzA5NDksIm5iZiI6MTc0MTI3MDY0OSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA2VDE0MTcyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5ZGFhYmIyMjJkZDFhYjYxNTg3MGFmNTc1MjViNzg0MmIxZjdhZmI1ODEyNzI0YjE2NmNmZDA4N2MxYWVlNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1GDb47qGtmY0Kw2ysi26qTUHZl_QWe1pSok3eBjXmX0"  />
 
 ###
 
@@ -52,18 +49,6 @@
   <a href="https://www.behance.net/ninad_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ninad261/ninad261/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ninad261&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
