@@ -61,6 +61,5 @@
 
 ###
 
-<h1 align="left">📫 Let's Connect!</h1>
 
 ###
